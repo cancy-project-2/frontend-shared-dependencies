@@ -5,6 +5,7 @@
     "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@17.0.1/umd/react-dom.production.min.js",
     "rxjs": "https://cdn.jsdelivr.net/npm/@esm-bundle/rxjs@6.6.3/system/es2015/rxjs.min.js",
     "rxjs/operators": "https://cdn.jsdelivr.net/npm/@esm-bundle/rxjs@6.6.3/system/es2015/rxjs-operators.min.js",
-    "@cancy-project/root-config": "https://storage.googleapis.com/cancy-website-bucket/cancy-project-root-config.js"
+    "@cancy-project/root-config": "https://storage.googleapis.com/cancy-website-bucket/cancy-project-root-config.js",
+    "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js"
   }
 }
