@@ -6,6 +6,7 @@
     "rxjs": "https://cdn.jsdelivr.net/npm/@esm-bundle/rxjs@6.6.3/system/es2015/rxjs.min.js",
     "rxjs/operators": "https://cdn.jsdelivr.net/npm/@esm-bundle/rxjs@6.6.3/system/es2015/rxjs-operators.min.js",
     "@cancy-project/root-config": "https://storage.googleapis.com/cancy-website-bucket/cancy-project-root-config.js",
-    "@single-spa/welcome": "https://unpkg.com/single-spa-welcome/dist/single-spa-welcome.js"
+    "@cancy-project/navbar": "https://storage.googleapis.com/cancy-website-bucket/navbar/cancy-project-navbar.js",
+    "@cancy-project/ticket": "https://storage.googleapis.com/cancy-website-bucket/navbar/cancy-project-ticket.js"
   }
 }
