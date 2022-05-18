@@ -17,5 +17,5 @@ jobs:
         with:
           credentials_json: '${{ secrets.GCP_CREDENTIALS }}'
       - uses: google-github-actions/setup-gcloud@v0
-      - run: gsutil -m cp importmap.json gs://cancy-website-bucket/import/map.json
-      - run: gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://cancy-website-bucket/import/map.json
+      - run: gsutil -m cp importmap.json gs://cancy-website-2-bucket/import/map.json
+      - run: gsutil -m setmeta -h "Cache-Control:public, max-age=3600" gs://cancy-website-2-bucket/import/map.json
