@@ -8,6 +8,8 @@
     "@cancy-project/root-config": "https://storage.googleapis.com/cancy-website-bucket/cancy-project-root-config.js",
     "@cancy-project/api": "https://storage.googleapis.com/cancy-website-bucket/api/cancy-project-api.js",
     "@cancy-project/navbar": "https://storage.googleapis.com/cancy-website-bucket/navbar/cancy-project-navbar.js",
-    "@cancy-project/ticket": "https://storage.googleapis.com/cancy-website-bucket/ticket/cancy-project-ticket.js"
+    "@cancy-project/ticket": "https://storage.googleapis.com/cancy-website-bucket/ticket/cancy-project-ticket.js",
+    "@cancy-project/auth-helper": "https://storage.googleapis.com/cancy-website-bucket/auth-helper/cancy-project-auth-helper.js",
+    "@cancy-project/auth": "https://storage.googleapis.com/cancy-website-bucket/auth/cancy-project-auth.js"
   }
 }
